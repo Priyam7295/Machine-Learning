@@ -1,0 +1,3 @@
+In regression ,I have coded Linear Regression and Polynominal regression from scratch.
+
+I have created gradient descent function ,so that it can be directly used for any type of linear regression or polynomial regression ,it doesn't matter how many features is there in input vector.
